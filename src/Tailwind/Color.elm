@@ -1,5 +1,5 @@
 module Tailwind.Color exposing
-    ( Color
+    ( Color(..)
     , arbitraryRgb
     , arbitraryRgba
     , Opacity(..)
