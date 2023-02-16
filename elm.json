@@ -1,0 +1,16 @@
+{
+    "type": "package",
+    "name": "matheus23/elm-tailwind-modules-base",
+    "summary": "Base code that elm-tailwind-modules-generated code depends on.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "Tailwind.Color"
+    ],
+    "elm-version": "0.19.1 <= v <= 0.20.0",
+    "dependencies": {
+        "elm/core": "1.0.5 <= v < 2.0.0",
+        "rtfeldman/elm-css": "15.0.0 <= v < 19.0.0"
+    },
+    "test-dependencies": {}
+}
